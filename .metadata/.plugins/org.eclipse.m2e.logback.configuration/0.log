@@ -1,9 +1,0 @@
-2016-12-05 09:50:24,445 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\yuan\yuan\pom.xml
-2016-12-05 09:50:28,592 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: yuan:yuan:0.0.1-SNAPSHOT @ D:\yuan\yuan\pom.xml.
-2016-12-05 09:50:31,131 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yuan/src/main/java
-2016-12-05 09:50:31,140 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yuan/src/test/java
-2016-12-05 09:50:34,481 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
-2016-12-05 09:50:36,620 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2016-12-05 09:50:36,622 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yuan\yuan\src\main\resources
-2016-12-05 09:50:36,640 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2016-12-05 09:50:36,640 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\yuan\yuan\src\test\resources
